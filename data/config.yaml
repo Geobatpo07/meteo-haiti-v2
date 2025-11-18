@@ -1,0 +1,20 @@
+villes:
+  - id: 1
+    nom: "Port-au-Prince"
+    latitude: 18.5944
+    longitude: -72.3074
+
+  - id: 2
+    nom: "Cap-Haïtien"
+    latitude: 19.7397
+    longitude: -72.1982
+
+  - id: 3
+    nom: "Gonaïves"
+    latitude: 19.4477
+    longitude: -72.6890
+
+  - id: 4
+    nom: "Les Cayes"
+    latitude: 18.1939
+    longitude: -73.7460
